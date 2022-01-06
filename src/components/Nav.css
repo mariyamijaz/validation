@@ -1,0 +1,42 @@
+.list{
+    margin-left: 230px;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.navitem{
+    margin-left: 100px;
+
+    
+}
+/* .navitem:hover{
+    background-color: rgb(155, 155, 155);
+} */
+.navitem:active{
+    border-bottom : 3px solid #000;;
+}
+.navitemx{
+    margin-left: 300px;
+}
+.trvl{
+    margin-left: 20px;
+   
+    height: auto;
+}
+.trvl img{
+    width: 150px;
+    height: auto;
+}
+.containerx{
+    height: 60px;
+display : flex;
+justify-content : space-between;
+z-index: 100;
+position : fixed;
+width: 100%;
+    
+}
+#l1{
+    color: white;
+}
